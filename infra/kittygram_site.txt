@@ -1,0 +1,5 @@
+IP: 158.160.30.144;
+name_taski: finik.ddns.net;
+name_kittygram: kgram.ddns.net;
+login: admin;
+password: admin;
