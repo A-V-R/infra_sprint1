@@ -1,5 +1,5 @@
 IP: 158.160.30.144;
-name_taski: finik.ddns.net;
-name_kittygram: kgram.ddns.net;
+name_taski: https://finik.ddns.net;
+name_kittygram: https://kgram.ddns.net;
 login: admin;
 password: admin;
