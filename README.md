@@ -1,9 +1,5 @@
 # Проект Kittygram
 
-[![Python](https://img.shields.io/badge/-Python-464641?style=flat-square&logo=Python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
-[![Pytest](https://img.shields.io/badge/-Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
-
 Яндекс Практикум. Проект 14-го спринта: Управление проектом на удалённом сервере.
 
 ## Описание
